@@ -3,8 +3,9 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -16,17 +17,7 @@
             <option value="$PROJECT_DIR$/SpeedSliderLibrary" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/CalibrationLibrary" />
-            <option value="$PROJECT_DIR$/ColorPickerLibrary" />
-            <option value="$PROJECT_DIR$/DriveSampleApp" />
-            <option value="$PROJECT_DIR$/JoystickLibrary" />
-            <option value="$PROJECT_DIR$/RobotPickerLibrary" />
-            <option value="$PROJECT_DIR$/SpeedSliderLibrary" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
