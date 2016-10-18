@@ -88,8 +88,8 @@ android {
  */
 
 dependencies {
-    compile fileTree(include: ['RobotLibrary.jar'], dir: '../../../library')
-    compile 'com.android.support:appcompat-v7:22.0.0'
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:24.2.1'
     compile project(':CalibrationLibrary')
     compile project(':ColorPickerLibrary')
     compile project(':JoystickLibrary')
